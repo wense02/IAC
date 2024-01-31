@@ -156,7 +156,7 @@
         "id": "[resourceId('Microsoft.Network/networkInterfaces', 'miniBootcampVMoshea-NetworkInterface')]"
        }
       ]
-     },
+     }
     }
    }
  ],
